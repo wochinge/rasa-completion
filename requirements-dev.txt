@@ -1,4 +1,4 @@
 -r requirements.txt
 
-pytest==5.3.5
+pytest==6.0.2
 black==19.10b0
