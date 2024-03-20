@@ -1,4 +1,4 @@
 -r requirements.txt
 
 pytest==5.3.5
-black==19.10b0
+black==24.3.0
